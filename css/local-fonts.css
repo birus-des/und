@@ -1,0 +1,337 @@
+
+						@font-face {
+							font-family: 'alice';
+							src: url("") format('woff2');
+							font-weight: 400;
+							font-style: normal0;
+						}
+						
+						@font-face {
+							font-family: 'alice';
+							src: url("") format('woff2');
+							font-weight: 400;
+							font-style: normal1;
+						}
+						
+						@font-face {
+							font-family: 'alice';
+							src: url("") format('woff2');
+							font-weight: 400;
+							font-style: normal2;
+						}
+						
+						@font-face {
+							font-family: 'alice';
+							src: url("") format('woff2');
+							font-weight: 400;
+							font-style: normal3;
+						}
+						
+						@font-face {
+							font-family: 'bilbo';
+							src: url("") format('woff2');
+							font-weight: swash;
+							font-style: caps;
+						}
+						
+						@font-face {
+							font-family: 'bilbo';
+							src: url("") format('woff2');
+							font-weight: swash;
+							font-style: caps;
+						}
+						
+						@font-face {
+							font-family: 'cinzel';
+							src: url("cinzel-400-normal0.woff2") format('woff2');
+							font-weight: 400;
+							font-style: normal0;
+						}
+						
+						@font-face {
+							font-family: 'cinzel';
+							src: url("cinzel-400-normal1.woff2") format('woff2');
+							font-weight: 400;
+							font-style: normal1;
+						}
+						
+						@font-face {
+							font-family: 'elsie';
+							src: url("") format('woff2');
+							font-weight: swash;
+							font-style: caps;
+						}
+						
+						@font-face {
+							font-family: 'elsie';
+							src: url("") format('woff2');
+							font-weight: swash;
+							font-style: caps;
+						}
+						
+						@font-face {
+							font-family: 'great';
+							src: url("") format('woff2');
+							font-weight: vibes;
+							font-style: 400;
+						}
+						
+						@font-face {
+							font-family: 'great';
+							src: url("") format('woff2');
+							font-weight: vibes;
+							font-style: 400;
+						}
+						
+						@font-face {
+							font-family: 'great';
+							src: url("") format('woff2');
+							font-weight: vibes;
+							font-style: 400;
+						}
+						
+						@font-face {
+							font-family: 'great';
+							src: url("") format('woff2');
+							font-weight: vibes;
+							font-style: 400;
+						}
+						
+						@font-face {
+							font-family: 'great';
+							src: url("") format('woff2');
+							font-weight: vibes;
+							font-style: 400;
+						}
+						
+						@font-face {
+							font-family: 'great';
+							src: url("") format('woff2');
+							font-weight: vibes;
+							font-style: 400;
+						}
+						
+						@font-face {
+							font-family: 'italiana';
+							src: url("") format('woff2');
+							font-weight: 400;
+							font-style: normal0;
+						}
+						
+						@font-face {
+							font-family: 'italianno';
+							src: url("") format('woff2');
+							font-weight: 400;
+							font-style: normal0;
+						}
+						
+						@font-face {
+							font-family: 'italianno';
+							src: url("") format('woff2');
+							font-weight: 400;
+							font-style: normal1;
+						}
+						
+						@font-face {
+							font-family: 'italianno';
+							src: url("") format('woff2');
+							font-weight: 400;
+							font-style: normal2;
+						}
+						
+						@font-face {
+							font-family: 'lobster';
+							src: url("") format('woff2');
+							font-weight: two;
+							font-style: 400;
+						}
+						
+						@font-face {
+							font-family: 'montez';
+							src: url("") format('woff2');
+							font-weight: 400;
+							font-style: normal0;
+						}
+						
+						@font-face {
+							font-family: 'montez';
+							src: url("") format('woff2');
+							font-weight: 400;
+							font-style: normal1;
+						}
+						
+						@font-face {
+							font-family: 'pinyon';
+							src: url("") format('woff2');
+							font-weight: script;
+							font-style: 400;
+						}
+						
+						@font-face {
+							font-family: 'pinyon';
+							src: url("") format('woff2');
+							font-weight: script;
+							font-style: 400;
+						}
+						
+						@font-face {
+							font-family: 'pinyon';
+							src: url("") format('woff2');
+							font-weight: script;
+							font-style: 400;
+						}
+						
+						@font-face {
+							font-family: 'playfair';
+							src: url("") format('woff2');
+							font-weight: display;
+							font-style: 400;
+						}
+						
+						@font-face {
+							font-family: 'playfair';
+							src: url("") format('woff2');
+							font-weight: display;
+							font-style: 400;
+						}
+						
+						@font-face {
+							font-family: 'playfair';
+							src: url("") format('woff2');
+							font-weight: display;
+							font-style: 400;
+						}
+						
+						@font-face {
+							font-family: 'playfair';
+							src: url("") format('woff2');
+							font-weight: display;
+							font-style: 400;
+						}
+						
+						@font-face {
+							font-family: 'poiret';
+							src: url("") format('woff2');
+							font-weight: one;
+							font-style: 400;
+						}
+						
+						@font-face {
+							font-family: 'poiret';
+							src: url("") format('woff2');
+							font-weight: one;
+							font-style: 400;
+						}
+						
+						@font-face {
+							font-family: 'poiret';
+							src: url("") format('woff2');
+							font-weight: one;
+							font-style: 400;
+						}
+						
+						@font-face {
+							font-family: 'poppins';
+							src: url("poppins-400-normal0.woff2") format('woff2');
+							font-weight: 400;
+							font-style: normal0;
+						}
+						
+						@font-face {
+							font-family: 'poppins';
+							src: url("poppins-400-normal1.woff2") format('woff2');
+							font-weight: 400;
+							font-style: normal1;
+						}
+						
+						@font-face {
+							font-family: 'poppins';
+							src: url("poppins-400-normal2.woff2") format('woff2');
+							font-weight: 400;
+							font-style: normal2;
+						}
+						
+						@font-face {
+							font-family: 'quicksand';
+							src: url("quicksand-400-normal0.woff2") format('woff2');
+							font-weight: 400;
+							font-style: normal0;
+						}
+						
+						@font-face {
+							font-family: 'quicksand';
+							src: url("quicksand-400-normal1.woff2") format('woff2');
+							font-weight: 400;
+							font-style: normal1;
+						}
+						
+						@font-face {
+							font-family: 'quicksand';
+							src: url("quicksand-400-normal2.woff2") format('woff2');
+							font-weight: 400;
+							font-style: normal2;
+						}
+						
+						@font-face {
+							font-family: 'spirax';
+							src: url("") format('woff2');
+							font-weight: 400;
+							font-style: normal0;
+						}
+						
+						@font-face {
+							font-family: 'suranna';
+							src: url("") format('woff2');
+							font-weight: 400;
+							font-style: normal0;
+						}
+						
+						@font-face {
+							font-family: 'suranna';
+							src: url("") format('woff2');
+							font-weight: 400;
+							font-style: normal1;
+						}
+						
+						@font-face {
+							font-family: 'ubuntu';
+							src: url("") format('woff2');
+							font-weight: 400;
+							font-style: normal0;
+						}
+						
+						@font-face {
+							font-family: 'ubuntu';
+							src: url("") format('woff2');
+							font-weight: 400;
+							font-style: normal1;
+						}
+						
+						@font-face {
+							font-family: 'ubuntu';
+							src: url("") format('woff2');
+							font-weight: 400;
+							font-style: normal2;
+						}
+						
+						@font-face {
+							font-family: 'ubuntu';
+							src: url("") format('woff2');
+							font-weight: 400;
+							font-style: normal3;
+						}
+						
+						@font-face {
+							font-family: 'ubuntu';
+							src: url("") format('woff2');
+							font-weight: 400;
+							font-style: normal4;
+						}
+						
+						@font-face {
+							font-family: 'ubuntu';
+							src: url("") format('woff2');
+							font-weight: 400;
+							font-style: normal5;
+						}
+						
